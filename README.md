@@ -40,6 +40,11 @@ First and foremost, the employee needs to enter their username and password at t
 <br>
 <hr>
 
+# CONTENTS IN THE CODING
+![IMG_20210613_222943](https://user-images.githubusercontent.com/61685490/121812370-26a04680-cc9a-11eb-9533-4767a24f996f.jpg)
+<br>
+<hr>
+
 # CONCLUSION 
 Conclusively, for the purpose of developing a system, all important folders including controller, model database, view and routes must be prepared thoroughly. As a team, we cooperatively brainstormed, discussed and decided to link all of the files together in order to establish a functional system. We have to admit that these tasks were difficult especially ODL, however, we have the spirit and passion for this project with the intention of making this system a success. This system is vital for a successful business in the interest of avoiding any loss of items or products without anyone knowing. Other than this, this system is also beneficial for the employees to update the number of available items in the store for everyone to see.
 <br>
